@@ -27,6 +27,11 @@
             <artifactId>spring-webmvc</artifactId>
             <version>${spring}</version>
         </dependency>
+        <dependency>
+            <groupId>org.springframework.data</groupId>
+            <artifactId>spring-data-neo4j</artifactId>
+            <version>${neo4j}</version>
+        </dependency>
     </dependencies>
 
 
